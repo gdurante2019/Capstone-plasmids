@@ -14978,10 +14978,10 @@ With that, let's look at other approaches to predicting plasmid lab-of-origin ba
 
 When considering the next modeling approach, I thought about how information is encoded in DNA.  
 
-First, and perhaps most obvious, DNA, like written language, encodes information in a sequence of units.  While not a perfect analogy, DNA information encoding and written language information encoding have some fundamental similarities:
+First, and perhaps most obvious, DNA, like written language, encodes information in a linear sequence of units.  While not a perfect analogy, DNA information encoding and written language information encoding have some fundamental similarities:
 
 * Base pairs can be represented by 'letters' 
-* 'Letters', ordered in certain ways, code for functional units (like words do in written language)
+* Assemblages of 'letters' code for functional units (analogous to letters in words)
 * The order of the 'words' created by the ordering of DNA 'letters', in turn, contains additional information (similar to how a sentence conveys meaning by virtue of how the words within it are ordered)
 
 
